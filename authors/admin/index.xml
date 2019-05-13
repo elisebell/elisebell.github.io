@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elise Bell</title>
+    <link>https://elisebell.github.io/authors/admin/</link>
+    <description>Recent content on Elise Bell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://elisebell.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://elisebell.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisebell.github.io/authors/admin/</guid>
+      <description>I&amp;rsquo;m a Visiting Assistant Professor of Phonology at the University of Texas at El Paso. My work engages experimental techniques, acoustic analysis, and computational linguistics to investigate the influence of bilingualism and second language acquisition on the phonetic and phonological properties of speech.
+My dissertation research investigated the distribution of vowel quality and quantity distinctions in the dialect(s) of Welsh spoken in Argentina, specifically, how the perception and production of Welsh vowels is affected by bilingualism with Spanish, rather than with English.</description>
+    </item>
+    
+  </channel>
+</rss>

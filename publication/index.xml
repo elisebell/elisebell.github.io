@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Elise Bell</title>
+    <link>https://elisebell.github.io/publication/</link>
+    <description>Recent content in Publications on Elise Bell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://elisebell.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perception and production of Welsh vowels by Welsh-Spanish bilinguals</title>
+      <link>https://elisebell.github.io/publication/dissertation/</link>
+      <pubDate>Mon, 16 Jul 2018 14:03:39 -0600</pubDate>
+      
+      <guid>https://elisebell.github.io/publication/dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphological influences on categorical perception of stop voicing in Welsh</title>
+      <link>https://elisebell.github.io/publication/eb-sa-lsa-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 14:22:23 -0600</pubDate>
+      
+      <guid>https://elisebell.github.io/publication/eb-sa-lsa-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonological restrictions on lenition in Scottish Gaelic</title>
+      <link>https://elisebell.github.io/publication/language-gaelic-lenition/</link>
+      <pubDate>Thu, 01 Jun 2017 14:12:26 -0600</pubDate>
+      
+      <guid>https://elisebell.github.io/publication/language-gaelic-lenition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception of Welsh vowel contrasts by Welsh-Spanish bilinguals in Argentina</title>
+      <link>https://elisebell.github.io/publication/eb-lsa-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 14:19:13 -0600</pubDate>
+      
+      <guid>https://elisebell.github.io/publication/eb-lsa-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

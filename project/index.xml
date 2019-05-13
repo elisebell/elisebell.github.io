@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Elise Bell</title>
+    <link>https://elisebell.github.io/project/</link>
+    <description>Recent content in Projects on Elise Bell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 May 2019 14:22:30 -0600</lastBuildDate>
+    
+	<atom:link href="https://elisebell.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welsh</title>
+      <link>https://elisebell.github.io/project/welsh/</link>
+      <pubDate>Mon, 13 May 2019 14:22:30 -0600</pubDate>
+      
+      <guid>https://elisebell.github.io/project/welsh/</guid>
+      <description>Ongoing research investigating the Welsh language. Funded in part by a grant from the National Science Foundation (1453724).</description>
+    </item>
+    
+    <item>
+      <title>Argentinean Welsh</title>
+      <link>https://elisebell.github.io/project/argentinean-welsh/</link>
+      <pubDate>Mon, 13 May 2019 14:15:38 -0600</pubDate>
+      
+      <guid>https://elisebell.github.io/project/argentinean-welsh/</guid>
+      <description>Ongoing research project investigating the dialect of Welsh spoken in Argentina. Initially funded by a fieldwork grant from the Tinker Foundation and a Doctoral Dissertation Research grant from the National Science Foundation (1729883).</description>
+    </item>
+    
+    <item>
+      <title>Scottish Gaelic</title>
+      <link>https://elisebell.github.io/project/scottish-gaelic/</link>
+      <pubDate>Mon, 13 May 2019 14:15:24 -0600</pubDate>
+      
+      <guid>https://elisebell.github.io/project/scottish-gaelic/</guid>
+      <description>Past research investigating the phonology of lenition in Scottish Gaelic, funded by NSF grant 1144318.</description>
+    </item>
+    
+  </channel>
+</rss>
