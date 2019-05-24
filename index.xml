@@ -6,10 +6,19 @@
     <description>Recent content on Elise Bell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2019 14:50:32 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2019 14:21:44 -0600</lastBuildDate>
     
 	    <atom:link href="https://elisebell.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://elisebell.github.io/project/tutorials/</link>
+      <pubDate>Fri, 24 May 2019 14:21:44 -0600</pubDate>
+      
+      <guid>https://elisebell.github.io/project/tutorials/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>UT El Paso</title>
