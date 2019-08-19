@@ -6,10 +6,19 @@
     <description>Recent content on Elise Bell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 14:21:44 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 15:43:50 +0100</lastBuildDate>
     
 	    <atom:link href="https://elisebell.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CLTW 2019</title>
+      <link>https://elisebell.github.io/publication/cltw-2019/</link>
+      <pubDate>Mon, 19 Aug 2019 15:43:50 +0100</pubDate>
+      
+      <guid>https://elisebell.github.io/publication/cltw-2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tutorials</title>
@@ -117,6 +126,203 @@ person and online) - Fall 2013, Summer 2014&lt;/p&gt;
       
       <guid>https://elisebell.github.io/publication/eb-lsa-2017/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://elisebell.github.io/slides/cltw-2019-slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elisebell.github.io/slides/cltw-2019-slides/</guid>
+      <description>&lt;?xml version=&#34;1.0&#34; encoding=&#34;utf-8&#34;?&gt;
+&lt;!DOCTYPE html PUBLIC &#34;-//W3C//DTD XHTML 1.0 Strict//EN&#34;
+ &#34;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&#34;&gt;
+&lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
+&lt;head&gt;
+  &lt;meta http-equiv=&#34;Content-Type&#34; content=&#34;text/html; charset=utf-8&#34; /&gt;
+  &lt;meta http-equiv=&#34;Content-Style-Type&#34; content=&#34;text/css&#34; /&gt;
+  &lt;meta name=&#34;generator&#34; content=&#34;pandoc&#34; /&gt;
+  &lt;meta name=&#34;author&#34; content=&#34;Elise Bell The University of Texas at El Paso eabell2@utep.edu&#34; /&gt;
+  &lt;title&gt;Speech technology and Argentinean Welsh&lt;/title&gt;
+  &lt;style type=&#34;text/css&#34;&gt;
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  &lt;/style&gt;
+  &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; media=&#34;screen, projection, print&#34;
+    href=&#34;slideous/slideous.css&#34; /&gt;
+  &lt;script src=&#34;slideous/slideous.js&#34;
+    charset=&#34;utf-8&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div id=&#34;statusbar&#34;&gt;
+&lt;span style=&#34;float:right;&#34;&gt;
+&lt;span style=&#34;margin-right:4em;font-weight:bold;&#34;&gt;&lt;span id=&#34;slideidx&#34;&gt;&lt;/span&gt; of {$slidecount}&lt;/span&gt;
+&lt;button id=&#34;homebutton&#34; title=&#34;first slide&#34;&gt;1&lt;/button&gt;
+&lt;button id=&#34;prevslidebutton&#34; title=&#34;previous slide&#34;&gt;&amp;laquo;&lt;/button&gt;
+&lt;button id=&#34;previtembutton&#34; title=&#34;previous item&#34;&gt;&amp;lsaquo;&lt;/button&gt;
+&lt;button id=&#34;nextitembutton&#34; title=&#34;next item&#34;&gt;&amp;rsaquo;&lt;/button&gt;
+&lt;button id=&#34;nextslidebutton&#34; title=&#34;next slide&#34;&gt;&amp;raquo;&lt;/button&gt;
+&lt;button id=&#34;endbutton&#34; title=&#34;last slide&#34;&gt;{$slidecount}&lt;/button&gt;
+&lt;button id=&#34;incfontbutton&#34; title=&#34;content&#34;&gt;A+&lt;/button&gt;
+&lt;button id=&#34;decfontbutton&#34; title=&#34;first slide&#34;&gt;A-&lt;/button&gt;
+&lt;select id=&#34;tocbox&#34; size=&#34;1&#34;&gt;&lt;option&gt;&lt;/option&gt;&lt;/select&gt;
+&lt;/span&gt;
+&lt;span id=&#34;eos&#34;&gt;&amp;frac12;&lt;/span&gt;
+&lt;span title=&#34;{$location}, {$date}&#34;&gt;{$title}, {$author}&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;slide titlepage&#34;&gt;
+  &lt;h1 class=&#34;title&#34;&gt;Speech technology and Argentinean Welsh&lt;/h1&gt;
+  &lt;p class=&#34;author&#34;&gt;
+Elise Bell&lt;br /&gt;
+The University of Texas at El Paso&lt;br /&gt;
+eabell2@utep.edu&lt;br /&gt;
+  &lt;/p&gt;
+  &lt;p class=&#34;date&#34;&gt;19 August, 2019&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;introduction&#34; class=&#34;title-slide slide section level1&#34;&gt;&lt;h1&gt;Introduction&lt;/h1&gt;&lt;/div&gt;&lt;div id=&#34;speech-language-technology&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Speech language technology&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Spoken and/or written data sets&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sufficient data to make generalizations&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Products include ASR, TTS, parsers&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Minority languages&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Lesser-resourced in general&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Strategies include crowd-sourcing, rule-based approaches&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;May exclude speakers who deviate from the norm&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;div id=&#34;welsh-speech-technology&#34; class=&#34;title-slide slide section level2&#34;&gt;&lt;h2&gt;Welsh speech technology&lt;/h2&gt;&lt;/div&gt;&lt;div id=&#34;current-speech-tech-resources-for-welsh&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Current speech tech resources for Welsh&lt;/h3&gt;
+&lt;p&gt;&lt;span&gt;0.48&lt;/span&gt; &lt;strong&gt;Products&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Website vocabulary plugin&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Spelling &amp;amp; grammar checker&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Part of speech tagger&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Digital assistant&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;0.48&lt;/span&gt; &lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Trydar corpus of social media&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CEG corpus of written Welsh&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Proceedings of the National Assembly for Wales (bilingual)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Spoken corpora (Siarad, Patagonia)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;div id=&#34;argentinean-welsh&#34; class=&#34;title-slide slide section level2&#34;&gt;&lt;h2&gt;Argentinean Welsh&lt;/h2&gt;&lt;/div&gt;&lt;div id=&#34;modern-welsh-in-argentina&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Modern Welsh in Argentina&lt;/h3&gt;
+&lt;p&gt;&lt;span&gt;0.48&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Revitalization of inter-generational transmission&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;L2 Welsh education for all ages&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ongoing teacher exchange program with Wales&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Spoken Welsh domains include chapel, private homes, Eisteddfodau&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;0.48&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;chubut_zoom_large&#34; alt=&#34;image&#34; style=&#34;width:110.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div id=&#34;modern-welsh-in-argentina-1&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Modern Welsh in Argentina&lt;/h3&gt;
+&lt;p&gt;&lt;span&gt;0.48&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Under-resourced, under-researched&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Differs from other Welsh dialects&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;All speakers bilingual with Spanish (at least)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Many different Welsh acquisition pathways&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;0.48&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;chubut_zoom_large&#34; alt=&#34;image&#34; style=&#34;width:110.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;discussion&#34; class=&#34;title-slide slide section level1&#34;&gt;&lt;h1&gt;Discussion&lt;/h1&gt;&lt;/div&gt;&lt;div id=&#34;linguistic-divergence&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Linguistic divergence&lt;/h3&gt;
+&lt;p&gt;Many factors predict differences between Argentinean Welsh and other dialects.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Welsh-speaking populations have had sparse contact for most of the last century&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cross-linguistic influence from competing languages Spanish and English&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;L2 acquisition effects&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Historical language divergence&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sociolinguistic pressures and incentives&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;div id=&#34;previous-research&#34; class=&#34;title-slide slide section level2&#34;&gt;&lt;h2&gt;Previous research&lt;/h2&gt;&lt;/div&gt;&lt;div id=&#34;previous-experimental-work-sleeper-2015&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Previous experimental work: Sleeper (2015)&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Hypothesis&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Welsh VOT (voiceless unaspirated vs. voiceless aspirated) affected by contact with Spanish (voiced vs. voiceless unaspirated)&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Method&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Measurements in conversational speech from two Welsh bilingual corpora (Spanish, English)&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Results&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Argentinean Welsh uses more Spanish-like VOT, compared to English-like VOT of control group&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;&lt;div id=&#34;previous-experimental-work-bell-2018&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Previous experimental work: Bell (2018)&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;Hypothesis&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Duration and quality of Welsh vowels affected by contact with Spanish (little allophonic vowel variation)&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Method&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Experimentally elicited vowel productions from Welsh-Spanish and Welsh-English bilinguals&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Results&lt;/dt&gt;
+&lt;dd&gt;&lt;p&gt;Argentinean Welsh maintains phonemic contrasts between long and short vowels, but has greatly reduced allophonic variation in vowel duration and quality&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/div&gt;&lt;div id=&#34;dialectal-variation-in-speech-technology&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Dialectal variation in speech technology&lt;/h3&gt;
+&lt;p&gt;Previous research on speech recognition of dialect and accent differences has shown:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Systems trained on multiple dialects perform better than those trained on a single dialect&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Including accent classification in training improved later classification of both accent-classified and accent-unclassified datasets&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;conclusion&#34; class=&#34;title-slide slide section level1&#34;&gt;&lt;h1&gt;Conclusion&lt;/h1&gt;&lt;/div&gt;&lt;div id=&#34;challenges-and-suggestions&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Challenges and suggestions&lt;/h3&gt;
+&lt;p&gt;Lack of data&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Knowledge-based approaches&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;More data (natural &amp;amp; lab produced)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Accessing a sparse speaker community&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Outreach at community events&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Existing social networks (older speakers)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Online recruitment (younger speakers)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;div id=&#34;conclusion-1&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Argentinean Welsh is different from other dialects of Welsh in the way speakers acoustically realize underlying phonemic contrasts&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Speech technologies benefit from the inclusion of individual and dialectal variation in the source data&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Welsh in Argentina presents a valuable resource for the continuing development of Welsh speech technology&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;&lt;div id=&#34;conclusion-2&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;Inclusion of the Argentinean Welsh community in the development of Welsh speech technology will:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Provide greater acoustic variation for model input&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yield models that are more accessible to non-mainstream Welsh speakers&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Strengthen ties between speakers in Wales and Argentina&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Support goals of language revitalization&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;beamer:0&amp;gt;&lt;/p&gt;
+&lt;/div&gt;&lt;div id=&#34;history-of-welsh-in-argentina&#34; class=&#34;slide section level3&#34;&gt;
+&lt;h3&gt;History of Welsh in Argentina&lt;/h3&gt;
+&lt;p&gt;&lt;span&gt;0.48&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Welsh colony established in 1865&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Several thousand colonists emigrated 1865-1914&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Welsh used in public &amp;amp; private life&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Decline began due to Spanish education in 1890s&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span&gt;0.48&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;banerau_cropped&#34; alt=&#34;image&#34; style=&#34;width:100.0%&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</description>
     </item>
     
   </channel>

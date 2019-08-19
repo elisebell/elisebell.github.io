@@ -3,8 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://elisebell.github.io/publication_types/1/</loc>
+    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elisebell.github.io/authors/</loc>
+    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elisebell.github.io/publication/cltw-2019/</loc>
+    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisebell.github.io/authors/elise-bell/</loc>
+    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://elisebell.github.io/</loc>
-    <lastmod>2019-05-24T14:21:44-06:00</lastmod>
+    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://elisebell.github.io/publication_types/</loc>
+    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,32 +80,8 @@
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/</loc>
-    <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://elisebell.github.io/authors/elise-bell/</loc>
-    <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://elisebell.github.io/publication/dissertation/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elisebell.github.io/publication_types/</loc>
-    <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://elisebell.github.io/publication_types/1/</loc>
-    <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -148,6 +153,11 @@
   </url>
   
   <url>
+    <loc>https://elisebell.github.io/slides/cltw-2019-slides/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://elisebell.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -165,6 +175,11 @@
   <url>
     <loc>https://elisebell.github.io/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elisebell.github.io/slides/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
