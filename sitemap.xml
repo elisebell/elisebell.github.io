@@ -1,51 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://elisebell.github.io/publication_types/1/</loc>
-    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://elisebell.github.io/publication-type/1/</loc>
+    <lastmod>2020-06-28T17:33:23-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://elisebell.github.io/authors/</loc>
-    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-06-28T17:33:23-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://elisebell.github.io/publication/cltw-2019/</loc>
-    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
+    <lastmod>2020-06-28T17:33:23-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/elise-bell/</loc>
-    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
-    <priority>0</priority>
+    <loc>https://elisebell.github.io/author/elise-bell/</loc>
+    <lastmod>2020-06-28T17:33:23-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://elisebell.github.io/</loc>
-    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-06-28T17:33:23-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://elisebell.github.io/publication_types/</loc>
-    <lastmod>2019-08-19T15:43:50+01:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-06-28T17:33:23-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://elisebell.github.io/project/</loc>
-    <lastmod>2019-05-24T14:21:44-06:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-06-28T17:33:23-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://elisebell.github.io/project/tutorials/</loc>
-    <lastmod>2019-05-24T14:21:44-06:00</lastmod>
+    <lastmod>2020-06-28T17:33:23-06:00</lastmod>
   </url>
   
   <url>
@@ -74,9 +68,8 @@
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/publication_types/7/</loc>
+    <loc>https://elisebell.github.io/publication-type/7/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -90,45 +83,38 @@
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/skye-anderson/</loc>
+    <loc>https://elisebell.github.io/author/skye-anderson/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/publication_types/2/</loc>
+    <loc>https://elisebell.github.io/publication-type/2/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/adam-ussishkin/</loc>
+    <loc>https://elisebell.github.io/author/adam-ussishkin/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/andrew-carnie/</loc>
+    <loc>https://elisebell.github.io/author/andrew-carnie/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/diana-archangeli/</loc>
+    <loc>https://elisebell.github.io/author/diana-archangeli/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/michael-hammond/</loc>
+    <loc>https://elisebell.github.io/author/michael-hammond/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/muriel-fisher/</loc>
+    <loc>https://elisebell.github.io/author/muriel-fisher/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -137,9 +123,8 @@
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/yan-chen/</loc>
+    <loc>https://elisebell.github.io/author/yan-chen/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -148,13 +133,12 @@
   </url>
   
   <url>
-    <loc>https://elisebell.github.io/authors/admin/</loc>
+    <loc>https://elisebell.github.io/author/</loc>
     <lastmod>2019-05-13T15:37:20-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://elisebell.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -174,7 +158,6 @@
   
   <url>
     <loc>https://elisebell.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -1,42 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types on Elise Bell</title>
+    <title>Publication_types | Elise Bell</title>
     <link>https://elisebell.github.io/publication_types/</link>
-    <description>Recent content in Publication_types on Elise Bell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 15:43:50 +0100</lastBuildDate>
-    
-	<atom:link href="https://elisebell.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>1</title>
-      <link>https://elisebell.github.io/publication_types/1/</link>
-      <pubDate>Mon, 19 Aug 2019 15:43:50 +0100</pubDate>
-      
-      <guid>https://elisebell.github.io/publication_types/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>7</title>
-      <link>https://elisebell.github.io/publication_types/7/</link>
-      <pubDate>Mon, 16 Jul 2018 14:03:39 -0600</pubDate>
-      
-      <guid>https://elisebell.github.io/publication_types/7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://elisebell.github.io/publication_types/2/</link>
-      <pubDate>Thu, 01 Jun 2017 14:12:26 -0600</pubDate>
-      
-      <guid>https://elisebell.github.io/publication_types/2/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://elisebell.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Mon, 19 Aug 2019 15:43:50 +0100</lastBuildDate>
+    <image>
+      <url>https://elisebell.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publication_types</title>
+      <link>https://elisebell.github.io/publication_types/</link>
+    </image>
     
   </channel>
 </rss>

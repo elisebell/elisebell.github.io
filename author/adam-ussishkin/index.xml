@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Ussishkin | Elise Bell</title>
+    <link>https://elisebell.github.io/author/adam-ussishkin/</link>
+      <atom:link href="https://elisebell.github.io/author/adam-ussishkin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adam Ussishkin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Thu, 01 Jun 2017 14:12:26 -0600</lastBuildDate>
+    <image>
+      <url>https://elisebell.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Adam Ussishkin</title>
+      <link>https://elisebell.github.io/author/adam-ussishkin/</link>
+    </image>
+    
+    <item>
+      <title>Phonological restrictions on lenition in Scottish Gaelic</title>
+      <link>https://elisebell.github.io/publication/language-gaelic-lenition/</link>
+      <pubDate>Thu, 01 Jun 2017 14:12:26 -0600</pubDate>
+      <guid>https://elisebell.github.io/publication/language-gaelic-lenition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,50 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Elise Bell</title>
+    <title>Projects | Elise Bell</title>
     <link>https://elisebell.github.io/project/</link>
-    <description>Recent content in Projects on Elise Bell</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 14:21:44 -0600</lastBuildDate>
-    
-	<atom:link href="https://elisebell.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://elisebell.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 24 May 2019 14:21:44 -0600</lastBuildDate>
+    <image>
+      <url>https://elisebell.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://elisebell.github.io/project/</link>
+    </image>
     
     <item>
       <title>Tutorials</title>
       <link>https://elisebell.github.io/project/tutorials/</link>
       <pubDate>Fri, 24 May 2019 14:21:44 -0600</pubDate>
-      
       <guid>https://elisebell.github.io/project/tutorials/</guid>
-      <description>Available code tutorials.</description>
+      <description>&lt;p&gt;Vowel data plotting tutorial available on my GitHub page 
+&lt;a href=&#34;https://github.com/elisebell/vowel_data_plots/blob/master/vowel_plots_w_ggplot2.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Welsh</title>
       <link>https://elisebell.github.io/project/welsh/</link>
       <pubDate>Mon, 13 May 2019 14:22:30 -0600</pubDate>
-      
       <guid>https://elisebell.github.io/project/welsh/</guid>
-      <description>Ongoing research investigating the Welsh language. Funded in part by a grant from the National Science Foundation (1453724).</description>
+      <description></description>
     </item>
     
     <item>
       <title>Argentinean Welsh</title>
       <link>https://elisebell.github.io/project/argentinean-welsh/</link>
       <pubDate>Mon, 13 May 2019 14:15:38 -0600</pubDate>
-      
       <guid>https://elisebell.github.io/project/argentinean-welsh/</guid>
-      <description>Ongoing research project investigating the dialect of Welsh spoken in Argentina. Initially funded by a fieldwork grant from the Tinker Foundation and a Doctoral Dissertation Research grant from the National Science Foundation (1729883).</description>
+      <description></description>
     </item>
     
     <item>
       <title>Scottish Gaelic</title>
       <link>https://elisebell.github.io/project/scottish-gaelic/</link>
       <pubDate>Mon, 13 May 2019 14:15:24 -0600</pubDate>
-      
       <guid>https://elisebell.github.io/project/scottish-gaelic/</guid>
-      <description>Past research investigating the phonology of lenition in Scottish Gaelic, funded by NSF grant 1144318.</description>
+      <description></description>
     </item>
     
   </channel>
